@@ -1,0 +1,37 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl K_Jersey_100Ctn_110GSM_S_DF22016_FRONT_2640
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ns 9.901810
+illum 2
+map_Ka G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_Kd G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_bump G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_normal_1001.png
+newmtl K_Jersey_100Ctn_110GSM_S_DF22016_FRONT_2635
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ns 9.901810
+illum 2
+map_Ka G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_Kd G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_bump G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_normal_1001.png
+newmtl K_Jersey_100Ctn_110GSM_S_DF22016_Copy_1_FRONT_428559
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.045000 0.045000 0.045000
+Ns 9.901810
+illum 2
+map_Ka G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_Kd G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_bump G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_normal_1001.png
+newmtl FABRIC_1_FRONT_423658
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.480000 0.480000 0.480000
+Ns 128.000000
+illum 2
+map_Ka G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_Kd G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_diffuse_1001.png
+map_bump G:/Digital Fashionwear/Md. Redwan Islam - Digital Garments Core 3D File (DG)/Core Files/DG100101-DG100150/DG100118/OBJ/OBJ Single Object/DG100118_normal_1001.png
